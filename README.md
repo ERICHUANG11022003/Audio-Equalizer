@@ -50,7 +50,7 @@ Finalization: Once you are satisfied with the functionality and performance of y
 
 
 Filter Bands
-Bass : 20Hz - 300 Hz , 
+Bass : below 300 Hz , 
 Mid Range : 300Hz - 4kHz
 Treble : 4kHz - 20KHz+ 
 
@@ -58,5 +58,7 @@ Filter Type for each frequency range
 Bass - Low passa filter
 Mid Range - Band Pass
 Treble - High pass filter
+
+
 
 
